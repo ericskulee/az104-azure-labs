@@ -32,3 +32,7 @@ Hands-on lab projects completed as part of the AZ-104 Azure Administrator certif
 - CompTIA Security+
 - Qualys Vulnerability Management
 - AZ-900 ✅
+
+## Compute & Identity Management
+
+See [`project-1-compute-identity-5131/`](./project-1-compute-identity-5131/README.md)
