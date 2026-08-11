@@ -1,38 +1,13 @@
-# AZ-104 Azure Administrator — Project-Based Labs
+# AZ-104 Azure Administrator
 
-Hands-on lab projects completed as part of the AZ-104 Azure Administrator certification study path.
-
-## Certification Path
-| Cert | Status |
-|------|--------|
-| AZ-900 | ✅ Passed |
-| AZ-104 | 🔄 In Progress |
-| SC-900 | ⏳ Upcoming |
-| SC-300 | ⏳ Upcoming |
-| AZ-500 | 🎯 Target |
+Master Azure administration with 5 hands-on projects. Deploy VMs, configure networking, set up monitoring, manage identity, and deploy applications — all committed to your GitHub.
 
 ## Projects
-| # | Project | Topics | Status |
-|---|---------|--------|--------|
-| 1 | [Compute & Identity Management](./project-1-compute-identity/) | VMs, RBAC, Key Vault, Policy, Cost Management | 🔄 In Progress |
-| 2 | [Networking & Storage](./project-2-networking-storage/) | VNet, NSG, Storage Accounts, ARM Templates | ⏳ Upcoming |
-| 3 | [Monitoring, Backup & Recovery](./project-3-monitoring-backup/) | Azure Monitor, Log Analytics, Backup, ASR | ⏳ Upcoming |
-| 4 | [Entra ID & Identity Management](./project-4-entra-id-iam/) | Entra ID, Conditional Access, MFA, App Registration | ⏳ Upcoming |
-| 5 | [App Service Deployment & Scaling](./project-5-app-service-scaling/) | App Service, Deployment Slots, Autoscaling, Backup | ⏳ Upcoming |
 
-## Tools & Environment
-- Azure Portal
-- Azure CLI
-- Ubuntu (targetjuice)
-- Git / GitHub
+- [Compute & Identity Management](./project-1-compute-identity-5131/README.md)
+- [Networking & Storage](./project-2-networking-storage/README.md)
+- [Monitoring & Backup](./project-3-monitoring-backup/README.md)
+- [Entra ID & IAM](./project-4-entra-iam-5131/README.md)
+- [App Service & Scaling](./project-5-appservice-scaling-5131/README.md)
 
-## Background
-- MSc Cybersecurity
-- BSc Computer Forensics
-- CompTIA Security+
-- Qualys Vulnerability Management
-- AZ-900 ✅
-
-## Compute & Identity Management
-
-See [`project-1-compute-identity-5131/`](./project-1-compute-identity-5131/README.md)
+Generated and maintained by [HandsOnCert](https://handsoncert.com).
