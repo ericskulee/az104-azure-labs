@@ -4,10 +4,12 @@ Master Azure administration with 5 hands-on projects. Deploy VMs, configure netw
 
 ## Projects
 
-- [Compute & Identity Management](./project-1-compute-identity-5131/README.md)
-- [Networking & Storage](./project-2-networking-storage/README.md)
-- [Monitoring & Backup](./project-3-monitoring-backup/README.md)
-- [Entra ID & IAM](./project-4-entra-iam-5131/README.md)
-- [App Service & Scaling](./project-5-appservice-scaling-5131/README.md)
+| # | Project | Focus | Status |
+|---|---------|-------|--------|
+| 1 | [Compute & Identity Management](./project-1-compute-identity-5131/README.md) | VMs, RBAC, Key Vault, Azure Policy | ⏳ In progress |
+| 2 | [Networking & Storage](./project-2-networking-storage/README.md) | VNet, NSG, Peering, Blob Storage | ⏳ In progress |
+| 3 | [Monitoring & Backup](./project-3-monitoring-backup/README.md) | Azure Monitor, Log Analytics, Alerts, Backup | ⏳ In progress |
+| 4 | [Entra ID & IAM](./project-4-entra-iam-5131/README.md) | Entra ID, Users, Groups, Conditional Access | ⏳ In progress |
+| 5 | [App Service & Scaling](./project-5-appservice-scaling-5131/README.md) | App Service, Deployment Slots, Auto-scale, Application Gateway | ⏳ In progress |
 
 Generated and maintained by [HandsOnCert](https://handsoncert.com).
